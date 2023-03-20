@@ -5,7 +5,7 @@
 </div>
 
 ## 1. Get datasets
-RadioML datasets can be obtained in the following：
+Dataset for RIS-based human target detection：
 
  [link] (https://www.deepsig.ai/datasets)
 
@@ -14,7 +14,7 @@ RadioML datasets can be obtained in the following：
 - matplotlib
 - numpy 
 ## 3. How to use it
-Just download the repository.
+Download the dataset and place it in the same folder as the code
 ### 3.1 Run with ConvNet classification model
 ```python 
 python Gen_interference_dataset.py
