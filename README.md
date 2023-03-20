@@ -10,8 +10,7 @@ RadioML datasets can be obtained in the following：
  [link] (https://www.deepsig.ai/datasets)
 
 ## 2. Requirements
-- pytorch
-- pickle
+- matlab
 - matplotlib
 - numpy 
 ## 3. How to use it
