@@ -22,8 +22,4 @@ b; then run SVM.py and train_model3.py, respectively, to find the detection accu
 ### Note: CNN confusion matrix is given together with the detection accuracy in train_model3.py.Accuracy comparison plots with draw2.py.
 
 ## 4. Dataset size description
-When six monitoring points are set up, each room scanned with seven RIS codes yields 6×1001×7 sets of data. Four rooms will produce 4×6×1001×7 sets of data, and a total of 7×4×6×1001×7 sets of data are obtained for the seven data features:
-|Dataset name|Sample dimension|Datasize|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|RML2016.10a_dict|2×128|220000|
-|RML2016.10a_int|2×128|2420000|
+When six monitoring points are set up, each room scanned with seven RIS codes yields 6×1001×7 sets of data. Four rooms will produce 4×6×1001×7 sets of data, and a total of 7×4×6×1001×7 sets of data are obtained for the seven data features
