@@ -20,8 +20,7 @@ Download the dataset and place it in the same folder as the code
 a; first run gate.py - import the dataset into it and use this code to partition the dataset
 b; then run SVM.py and train_model3.py, respectively, to find the detection accuracy.
 ```
-### Note: CNN confusion matrix is given together with the detection accuracy in train_model3.py.
-Accuracy comparison plots with draw2.py.
+### Note: CNN confusion matrix is given together with the detection accuracy in train_model3.py.Accuracy comparison plots with draw2.py.
 
 ## 4. Comparison of old and new datasets of RML2016
 Three commonly utilized datasets for machine learning provide the data for modulation identification: RML2016.10a_dict.pkl, 2016.04C.multisnr.pkl, and RML2016.10b.dat. The samples in the dataset are superimposed by the attack interference to generate new datasets RML2016.10a_int.pkl, RML2016.10b_int.pkl, and RML2016.04c_int.pkl. The addition of INR resulted in an 11-fold increase in the size of the new dataset, as shown in the following table:
