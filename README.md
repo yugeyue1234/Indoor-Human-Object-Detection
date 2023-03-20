@@ -19,7 +19,7 @@ Download the dataset and place it in the same folder as the code
 a; first run gate.py - import the dataset into it and use this code to partition the dataset
 b; then run SVM.py and train_model3.py, respectively, to find the detection accuracy.
 ```
-### Note: CNN confusion matrix is given together with the detection accuracy in train_model3.py.Accuracy comparison plots with draw2.py.
+### 
 
 ## 4. Dataset size description
 When six monitoring points are set up, each room scanned with seven RIS codes yields 6×1001×7 sets of data. Four rooms will produce 4×6×1001×7 sets of data, and a total of 7×4×6×1001×7 sets of data are obtained for the seven data features
