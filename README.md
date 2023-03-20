@@ -1,5 +1,5 @@
 #  RadioML datasets with attack interference
- As shown in Figure 1, the transmitter sends modulated signals to the receiver through a wireless communication channel. Since radio waves are invisible, intangible, and propagate in free space, they are very susceptible to interference and noise. As a result,  in order to mimic received signals that are as accurate as possible, interference and noise must be taken into account.
+ As shown in Figure 1, a schematic diagram of RIS-based human target detection is shown. A dataset was obtained by using RIS to control WiFi signals to scan moving human bodies indoors. Finally, the machine learning algorithm was used to process the dataset to get the room and the localization accuracy.
  <div align=center>
 <img src="fig1.png"> 
 </div>
