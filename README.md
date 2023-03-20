@@ -6,14 +6,14 @@
 
 ## 1. Get datasets：Note: the previous part represents the data type and the numeric part represents. How many monitoring points were usedFor example: ASBTS (2) ： ASBTS represents the data type; (2) represents that two monitoring points were used.
 Datasets in folder: Target detection dataset
-
+The experimental code is in: the code file
 ## 2. Requirements
 - matlab
 - matplotlib
 - numpy 
 ## 3. How to use it
 Download the dataset and place it in the same folder as the code
-The experimental code is in: the code file
+
 ### 3.1 Run with ConvNet and SVM classification model
 ```python 
 a; first run gate.py - import the dataset into it and use this code to partition the dataset
