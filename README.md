@@ -22,8 +22,8 @@ b; then run SVM.py and train_model3.py, respectively, to find the detection accu
 ### Note: CNN confusion matrix is given together with the detection accuracy in train_model3.py.Accuracy comparison plots with draw2.py.
 
 ## 4. Dataset size description
-Three commonly utilized datasets for machine learning provide the data for modulation identification: RML2016.10a_dict.pkl, 2016.04C.multisnr.pkl, and RML2016.10b.dat. The samples in the dataset are superimposed by the attack interference to generate new datasets RML2016.10a_int.pkl, RML2016.10b_int.pkl, and RML2016.04c_int.pkl. The addition of INR resulted in an 11-fold increase in the size of the new dataset, as shown in the following table:
-|Dataset name|Sample dimension|Datasize|SNR range(dB)|INR range(dB)|Modulation schemes|
+When six monitoring points are set up, each room scanned with seven RIS codes yields 6×1001×7 sets of data. Four rooms will produce 4×6×1001×7 sets of data, and a total of 7×4×6×1001×7 sets of data are obtained for the seven data features:
+|Dataset name|Sample dimension|Datasize|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |RML2016.10a_dict|2×128|220000|-20:2:18|——|11|
 |RML2016.10a_int|2×128|2420000|-20:2:18|-10:2:10|11|
