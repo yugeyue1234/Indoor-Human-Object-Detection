@@ -15,9 +15,10 @@ Dataset for RIS-based human target detection：
 - numpy 
 ## 3. How to use it
 Download the dataset and place it in the same folder as the code
-### 3.1 Run with ConvNet classification model
+### 3.1 Run with ConvNet and SVM classification model
 ```python 
-python Gen_interference_dataset.py
+a; first run gate.py - import the dataset into it and use this code to partition the dataset
+b; then run SVM.py and train_model3.py, respectively, to find the detection accuracy.
 ```
 ### 3.2 Run with other classification models
 1. Use your classification model to train the data and get the classification model parameters.
