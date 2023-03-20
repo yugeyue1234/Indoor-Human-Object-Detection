@@ -13,6 +13,7 @@ Datasets in folder: Target detection dataset
 - numpy 
 ## 3. How to use it
 Download the dataset and place it in the same folder as the code
+The experimental code is in: the code file
 ### 3.1 Run with ConvNet and SVM classification model
 ```python 
 a; first run gate.py - import the dataset into it and use this code to partition the dataset
