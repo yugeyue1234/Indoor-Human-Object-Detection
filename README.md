@@ -4,9 +4,8 @@
 <img src="fig1.png"> 
 </div>
 
-## 1. Get datasets：Data set: the previous part represents the data type and the numeric part represents. How many monitoring points were usedFor example: ASBTS (2) ： ASBTS represents the data type; (2) represents that two monitoring points were used.Dataset for RIS-based human target detection：
+## 1. Get datasets：Note: the previous part represents the data type and the numeric part represents. How many monitoring points were usedFor example: ASBTS (2) ： ASBTS represents the data type; (2) represents that two monitoring points were used.
 
- [link] (https://www.deepsig.ai/datasets)
 
 ## 2. Requirements
 - matlab
