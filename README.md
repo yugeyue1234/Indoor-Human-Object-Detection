@@ -23,6 +23,7 @@ b; then run SVM.py and train_model3.py, respectively, to find the detection accu
 
 ## 4. Dataset size description
 When six monitoring points are set up, each room scanned with seven RIS codes yields 6×1001×7 sets of data. Four rooms will produce 4×6×1001×7 sets of data, and a total of 7×4×6×1001×7 sets of data are obtained for the seven data features:
+
 |Dataset name|Sample dimension|Datasize|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |RML2016.10a_dict|2×128|220000|-20:2:18|——|11|
