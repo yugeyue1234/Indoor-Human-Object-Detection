@@ -1,4 +1,4 @@
-#  RadioML datasets with attack interference
+#  RIS-based human target detection
  As shown in Figure 1, a schematic diagram of RIS-based human target detection is shown. A dataset was obtained by using RIS to control WiFi signals to scan moving human bodies indoors. Finally, the machine learning algorithm was used to process the dataset to get the room and the localization accuracy.
  <div align=center>
 <img src="fig1.png"> 
